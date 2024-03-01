@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanacaridade&label=Profile%20views&color=0e75b6&style=flat" alt="joanacaridade" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **ServiceNow**
 
 - 📫 How to reach me **joanafgcaridade@gmail.com**
 
