@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **joanafgcaridade@gmail.com**
 
-- 📄 Know about my experiences: [Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months); ServiceNow Administration(February / 2024 – currently) ](Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months); ServiceNow Administration(February / 2024 – currently))
+- 📄 Know about my experiences:
+      - [Legal Officer Intern Barcelos Judicial Court(5monthds);
+      - Counter Operator Ralha Pastries (1year);
+      - Mobile Software Development Intern Motorline Electrocelos (3months);
+      - ServiceNow Administration in Deloitte Portugal(February / 2024 – currently) ](Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months); ServiceNow Administration(February / 2024 – currently))
 
 - ⚡ Fun fact **Passionate about motorcycles since I was a child**
 
