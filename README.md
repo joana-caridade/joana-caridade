@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joana Caridade</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A fullstack developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joanacaridade&label=Profile%20views&color=0e75b6&style=flat" alt="joanacaridade" /> </p>
 
-- 🌱 I’m currently learning **ServiceNow**
+- 🌱 I’m currently work with **ServiceNow**
 
 - 📫 How to reach me **joanafgcaridade@gmail.com**
 
-- 📄 Know about my experiences: [Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months)](Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months))
+- 📄 Know about my experiences: [Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months); ServiceNow Administration(February / 2024 – currently) ](Legal Officer Intern Barcelos Judicial Court(5monthds); Counter Operator Ralha Pastries (1year); Mobile Software Development Intern Motorline Electrocelos (3months); ServiceNow Administration(February / 2024 – currently))
 
 - ⚡ Fun fact **Passionate about motorcycles since I was a child**
 
